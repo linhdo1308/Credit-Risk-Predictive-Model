@@ -1,6 +1,6 @@
 # Home-Credit-Risk-Kaggle
 
-This is a project from a featured prediction competition hosted by Home Credit on [Kaggle]([url](https://www.kaggle.com/competitions/home-credit-default-risk/overview)).
+This is a project from a featured prediction competition hosted by Home Credit on [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/overview)
 
 ## 1. Business Problem
 
