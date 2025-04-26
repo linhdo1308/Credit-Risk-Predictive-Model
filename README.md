@@ -23,7 +23,9 @@ In general, our best model (CATBOOST) achieves an overall 70% accuracy and a bal
 
 ### b. Recommendations:
 - Develop personalized loan packages:
+
 Leverage customer data and predictive analytics to tailor loan offers with customized interest rates based on each borrower’s predicted default probability. This approach not only enhances customer satisfaction by providing fair, personalized rates but also improves the bank’s risk management and portfolio performance.
 
 - Marketing products to the target unbanked customer:
+
 With a solid understanding of the target customer, the bank should focus its marketing resources on this segment. Additionally, the marketing team should investigate the group’s pain points and behaviors to tailor campaigns that effectively attract them.
