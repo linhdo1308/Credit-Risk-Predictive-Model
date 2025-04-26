@@ -1,5 +1,7 @@
 # Home-Credit-Risk-Kaggle
 
+This is a project from a featured prediction competition hosted by Home Credit on [Kaggle]([url](https://www.kaggle.com/competitions/home-credit-default-risk/overview)).
+
 ## 1. Business Problem
 
 Home Credit focuses on delivering greater access to financial services through financial inclusion efforts across markets, including the unbanked. With insufficient or non-existent credit history, it is hard for them to receive loans from financial institutions. However, in order to guarantee a positive and safe borrowing experience, Home Credit needs to predict their ability of loan repayments with data.
