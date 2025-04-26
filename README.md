@@ -21,7 +21,7 @@ In general, our best model (CATBOOST) achieves an overall 70% accuracy and a bal
 - Applicants who change their number within 12 months are more likely to default.
 - Highest default risk is observed in the population with the lowest credit score (from 0 - 0.4). Applicants in this group will increase the likelihood of default by 65%. Interestingly, even those without credit scores shows moderate risk since they increase the probability of default by 50%.
 
-### b. Recommendations:
+### b. Recommendations
 - Develop personalized loan packages:
 
 Leverage customer data and predictive analytics to tailor loan offers with customized interest rates based on each borrower’s predicted default probability. This approach not only enhances customer satisfaction by providing fair, personalized rates but also improves the bank’s risk management and portfolio performance.
