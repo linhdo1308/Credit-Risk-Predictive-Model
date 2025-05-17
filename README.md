@@ -1,11 +1,11 @@
-# Home-Credit-Risk-Kaggle
+# Credit Risk Predictive Model for the unbanked population
 
 This is a project from a featured prediction competition hosted by Home Credit on [Kaggle](https://www.kaggle.com/competitions/home-credit-default-risk/overview) conducted by me and three other teammates. The purpose of this project is to create a predictive model on clients’ ability of loan repayments.
 
 ## 1. An Overview of the Project
 ### a. Business Problem
 
-Home Credit focuses on delivering greater access to financial services through financial inclusion efforts across markets, including the unbanked. With insufficient or non-existent credit history, it is hard for them to receive loans from financial institutions. However, in order to guarantee a positive and safe borrowing experience, Home Credit needs to predict their ability of loan repayments with data.
+Home Credit aims to expand financial access to unbanked customers. Lacking credit histories makes loan approvals challenging, so predictive models are used to assess their repayment ability and ensure responsible lending.
 
 ### b. Analytical Methodology
 
